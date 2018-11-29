@@ -1,0 +1,7 @@
+table,
+th,
+td {
+    border-color: yellowgreen;
+    border-width: 1px;
+    border-style: dotted;
+}
